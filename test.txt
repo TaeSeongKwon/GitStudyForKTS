@@ -1,2 +1,3 @@
 Hello World!
 HI My Name is Tae Seong
+Um... Git is very difficult
