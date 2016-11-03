@@ -1,3 +1,4 @@
 Hello World!
 HI My Name is Tae Seong
 Um... Git is very difficult
+Practice 1 : Conflict Example
